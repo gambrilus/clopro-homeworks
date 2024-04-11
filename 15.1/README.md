@@ -71,10 +71,10 @@ Resource Terraform:
 Создал [манифест](https://github.com/gambrilus/clopro-homeworks/blob/main/15.1/main.tf), используя [переменные](https://github.com/gambrilus/clopro-homeworks/blob/main/15.1/variables.tf) и [locals](https://github.com/gambrilus/clopro-homeworks/blob/main/15.1/locals.tf)
 
 Машины развернуты
-![cloud-1-1](15.1/images/cloud-1-1.png)
+![cloud-1-1](images/cloud-1-1.png)
 
 Подключаемся к публичной машине
-![cloud-1-2](15.1/images/cloud-1-2.png)
+![cloud-1-2](images/cloud-1-2.png)
 
 С нее подключаемся к приватной
 ![cloud-1-3](images/cloud-1-3.png)
